@@ -1,93 +1,189 @@
-# Hi there 👋 I'm Onkar Damale
+<div align="center">
 
-```
-CS Student | AI/ML Enthusiast | Cloud Computing Developer | Problem Solver
-Based in Maharashtra, India
-```
+# 👋 Hi there! I'm Onkar Damale
 
-## 🎯 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=3AB9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML%2FAI+Enthusiast;Cloud+Computing+Specialist;Building+Real-World+Impact" alt="Typing SVG" />
 
-I'm a passionate computer science student with a strong focus on **Machine Learning**, **Cloud Computing**, and **Full-Stack Development**. I love solving complex problems and building innovative solutions that make a real-world impact. Currently exploring **acoustic reef monitoring** with AI and developing smart farming solutions.
+### 🚀 CS Student | Building Intelligent Solutions with Python & GCP
 
-📚 **Learning & Exploring:**
-- Advanced ML algorithms (Random Forest, Deep Learning, CNNs)
-- Google Cloud Platform (GCP) - Cloud Run, Cloud Functions, BigQuery
-- Full-stack web development with FastAPI, Streamlit, and React
-- Audio processing and signal analysis
+<p>
+  <a href="https://linkedin.com/in/onkar-haribhau-damale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:onkar@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+## 💼 About Me
+
+I'm a passionate computer science student from **Maharashtra, India** with a strong focus on:
+
+🤖 **AI/ML Development** — Building intelligent models and deep learning solutions  
+☁️ **Cloud Architecture** — GCP, Firebase, Cloud Run, serverless computing  
+💻 **Full-Stack Engineering** — React, FastAPI, TypeScript, real-time applications  
+🌍 **Environmental Tech** — AI for coral reef monitoring and sustainable farming  
+
+Currently exploring **acoustic ecology**, **sustainable technology**, and **hackathon innovations**.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+<div>
 
-**Frameworks & Tools:**
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Cloud & DevOps:**
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**ML & Data Science:**
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🚀 Featured Projects
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🌊 [Acoustic Reef](https://github.com/mo-farooq/acoustic-reef) 
-**AI-powered platform for coral reef health monitoring using acoustic analysis**
-- Machine learning model for reef health classification
-- Real-time acoustic analysis and visualization
-- Deployed on GCP with Cloud Run
-- Tech: Python, TensorFlow, GCP, FastAPI
+</div>
 
-### 🌾 [CropMate](https://github.com/onkardamal/crop-mate)
-**Smart Farming Assistant - AI-powered crop recommendation system**
-- Recommends best crops based on soil nutrients (NPK), temperature, and pH
-- Integrated weather forecasts and fertilizer recommendations
-- Full-stack web application with real-time data
-- Tech: HTML/CSS/JavaScript, Python Flask, Machine Learning
+---
 
-### 🎵 [Aura](https://github.com/onkardamal/Aura)
-**Music Analysis & Visualization Tool**
-- Audio processing and feature extraction
-- Real-time music visualization
-- Tech: JavaScript, Web Audio API
+## 🌟 Featured Projects
 
-## 📊 GitHub Stats
+### 🎵 Acoustic Reef — Real-Time Coral Reef Monitoring
+**AI-powered platform for underwater ecosystem health analysis**
+- 🤖 Deep learning models for reef health classification
+- 📊 Real-time acoustic signal processing & visualization
+- ☁️ Deployed on Google Cloud with Cloud Run
+- **Tech:** Python, TensorFlow, FastAPI, GCP
+- ⭐ Collaborative research project
 
-![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkardamal&show_icons=true&theme=dark&count_private=true)
+### 🌾 CropMate — Smart Farming Intelligence System
+**AI-powered agricultural assistant for optimal crop planning**
+- 🌱 Soil nutrient analysis & crop recommendations
+- 🌦️ Weather-integrated fertilizer suggestions
+- 📈 Full-stack web app with real-time data
+- **Tech:** React, Python Flask, ML, HTML/CSS
+- 💡 Helps farmers make data-driven decisions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkardamal&layout=compact&theme=dark)
+### 🍽️ FoodRescue AI — Food Waste Reduction Platform
+**Community-driven platform reducing food waste through AI**
+- 📦 Smart inventory tracking with expiration alerts
+- 🧠 Gemini AI-powered recipe suggestions
+- 🤝 Intelligent donation matching system
+- 🎮 Gamification for community engagement
+- **Tech:** TypeScript, Firebase, Gemini API
+- 🏆 Hackathon project with real-world impact
 
-## 🎓 Current Focus
+### 🎼 Aura — Real-Time Music Analysis Engine
+**Interactive music visualization and audio analysis tool**
+- 🎧 Advanced audio feature extraction
+- 🌈 Live frequency visualization
+- 🎹 Real-time music spectrum analysis
+- **Tech:** JavaScript, Web Audio API, Canvas
 
-✅ **GSoC Aspirant** - Building open-source contributions
-✅ **Hackathon Participant** - Regular participant, focused on winning innovation challenges
-✅ **GCP Certifications** - Completing Google Cloud Skills Boost labs
-✅ **ML Model Optimization** - Improving accuracy and deployment efficiency
+### 🔐 Nourish Connect Impact — Decentralized Social Network
+**Community engagement platform for sustainable living**
+- 💬 Real-time messaging & community forums
+- 🌍 Impact tracking for environmental initiatives
+- 📱 Responsive web design
+- **Tech:** TypeScript, Firebase, Modern Web Stack
 
-## 💡 What I'm Looking For
+### 📊 Data Science & ML Projects
+**Various machine learning experiments and data analysis**
+- Random Forest Classification
+- Deep Neural Networks
+- CNN Image Processing
+- Time Series Forecasting
+- **Datasets:** Kaggle, Custom Research Data
 
-- 🤝 **Collaboration** on AI/ML and open-source projects
-- 💼 **Internship & GSoC opportunities** in ML/Cloud development
-- 📚 **Mentorship** from experienced developers
-- 🎯 **Hackathon partnerships** to build cool tech solutions
+---
 
-## 📫 Let's Connect!
+## 📈 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/onkar-haribhau-damale)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onkardamal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkardamal&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+✅ **Open-Source Contributions** — Building tools for the developer community  
+✅ **GSoC Aspirant** — Contributing to meaningful open-source projects  
+✅ **Hackathon Innovations** — Creating solutions for real-world problems  
+✅ **GCP Certifications** — Mastering Google Cloud architecture  
+✅ **ML Model Optimization** — Improving accuracy & deployment efficiency  
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### I'm interested in:
+
+💡 **AI/ML & Open-Source** collaborations  
+🏢 **Internship opportunities** in ML/Cloud development  
+👨‍🏫 **Learning from experienced** developers & mentors  
+🚀 **Hackathon partnerships** to build innovative solutions  
+🌍 **Environmental tech** projects with real-world impact  
+
+</div>
+
+---
+
+## 📊 Recent Activity
+
+- 🔬 Building acoustic monitoring systems for environmental conservation
+- 🤖 Exploring advanced ML algorithms & deep learning architectures
+- ☁️ Mastering Google Cloud Platform & serverless computing
+- 💬 Contributing to open-source projects
+- 🎓 Completing GCP Skills Boost & machine learning certifications
+
+---
+
+## 🎓 Education & Achievements
+
+📚 **Computer Science Student** — Pursuing engineering at DKTE, Maharashtra  
+🏅 **Google Cloud Certified** — Active participant in GCP Skills Boost  
+🏆 **Hackathon Regular** — Multiple project completions & recognitions  
+🌍 **Environmental Focus** — Coral reef & sustainable agriculture initiatives  
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onkardamal&color=blue" alt="Profile Views">
-</div>
 
-*Always learning, always building. Let's create something amazing together! 🚀*
+### 💬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onkar-haribhau-damale)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkar@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+
+---
+
+**"Always learning. Always building. Let's create something extraordinary together! 🚀"**
+
+*Last updated: January 2026*
+
+</div>
