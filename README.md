@@ -114,22 +114,6 @@ Currently exploring **acoustic ecology**, **sustainable technology**, and **hack
 
 ---
 
-## 📈 GitHub Analytics
-
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onkardamal&show_icons=true&theme=dark&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkardamal&layout=compact&theme=dark)
-
-</td>
-</tr>
-</table>
 
 ---
 
