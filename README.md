@@ -94,6 +94,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onkardamal&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkardamal&layout=compact&theme=radical&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=onkardamal&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
 ## 🎯 Open To
 
 🔗 **Collaborations** — Open-source, hackathons, innovative projects  
